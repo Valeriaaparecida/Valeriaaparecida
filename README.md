@@ -10,7 +10,7 @@ Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualment
 - 🚀 Estou à procura de oportunidades de trainee ou estágio na área de desenvolvimento de software.
 - 📫 Como me encontrar: valeria777valeria@hotmail.com | https://www.linkedin.com/in/valeriaaparecida
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fato divertido: Adoro pedalar seja noa asfalto seja nas trilhas!🚴‍♀️
+- ⚡ Fato divertido: Adoro pedalar seja no asfalto seja nas trilhas!🚴‍♀️
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia!
