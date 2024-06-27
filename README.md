@@ -13,4 +13,13 @@ Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualment
 - ⚡ Fato divertido: Adoro pedalar seja no asfalto seja nas trilhas!🚴‍♀️
 
 
+## Tecnologias que estou aprendendo
+
+<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+<a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
+<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+<a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
+<a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" /></a>
+<a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia!
