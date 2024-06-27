@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**Valeriaaparecida/Valeriaaparecida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualmente no 7º semestre. Sou apaixonada por desenvolvimento de software e estou me especializando em JavaScript voltado para o back-end.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, estou trabalhando no desenvolvimento de desafios usando JavaScript como parte de uma mentoria de trainee em desenvolvimento de software.
+- 🌱 Estou aprendendo frameworks e bancos de dados para aprimorar minhas habilidades em back-end.
+- 👯 Procuro colaborar em projetos de código aberto e em tarefas de desenvolvimento de software em equipe.
+- 🤔 Procuro ajuda com conceitos avançados de JavaScript e boas práticas no desenvolvimento de back-end.
+- 💬 Pergunte-me sobre minha jornada aprendendo JavaScript, meus projetos e qualquer coisa relacionada ao desenvolvimento de back-end.
+- 🚀 Estou à procura de oportunidades de trainee ou estágio na área de desenvolvimento de software.
+- 📫 Como me encontrar: valeria777valeria@hotmail.com | https://www.linkedin.com/in/valeriaaparecida
+- 😄 Pronomes: Ela/Dela
+- ⚡ Fato divertido: Adoro pedalar seja noa asfalto seja nas trilhas!🚴‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia!
