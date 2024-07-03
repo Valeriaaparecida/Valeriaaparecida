@@ -2,7 +2,7 @@
 
 Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualmente no 7º semestre. Sou apaixonada por desenvolvimento de software e estou me especializando em JavaScript voltado para o back-end.
 
-- 🔭 Atualmente, estou trabalhando no desenvolvimento de desafios usando JavaScript como parte de uma mentoria de trainee em desenvolvimento de software.
+- 🔭 Atualmente, estou trabalhando no desenvolvimento de desafios e projetos usando JavaScript como stack, como parte da da mentoria Desenvolvendo Me da qual faço parte.
 - 🌱 Estou aprendendo frameworks e bancos de dados para aprimorar minhas habilidades em back-end.
 - 👯 Procuro colaborar em projetos de código aberto e em tarefas de desenvolvimento de software em equipe.
 - 🤔 Procuro ajuda com conceitos avançados de JavaScript e boas práticas no desenvolvimento de back-end.
