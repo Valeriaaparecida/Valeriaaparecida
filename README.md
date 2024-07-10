@@ -22,4 +22,9 @@ Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualment
 <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" /></a>
 <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
 
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valeriaaparecida&show_icons=true)
+
+
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar ou apenas bater um papo sobre tecnologia!
