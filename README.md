@@ -6,7 +6,6 @@ Eu sou a Valéria, estudante de Sistemas de Informação na PUC Minas, atualment
 - 🌱 Estou aprendendo frameworks e bancos de dados para aprimorar minhas habilidades em back-end.
 - 👯 Procuro colaborar em projetos de código aberto e em tarefas de desenvolvimento de software em equipe.
 - 🤔 Procuro ajuda com conceitos avançados de JavaScript e boas práticas no desenvolvimento de back-end.
-- 💬 Pergunte-me sobre minha jornada aprendendo JavaScript, meus projetos e qualquer coisa relacionada ao desenvolvimento de back-end.
 - 🚀 Estou à procura de oportunidades de trainee ou estágio na área de desenvolvimento de software.
 - 📫 Como me encontrar: valeria777valeria@hotmail.com | https://www.linkedin.com/in/valeriaaparecida
 - 😄 Pronomes: Ela/Dela
