@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou Valéria, estudante de Sistemas de Informação na PUC Minas. Sou apaixonada por tecnologia e estou em busca de novos desafios e conhecimentos em novas tecnologias. 
+Eu sou Valéria, estudante de Sistemas de Informação na PUC Minas. Estou em busca de novos desafios e conhecimentos em novas tecnologias. 
 
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/idylicaro/)](https://www.linkedin.com/in/valeriaaparecida/)
