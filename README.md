@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá 👩🏾‍🎓
 
 Eu sou Valéria, estudante de Sistemas de Informação na PUC Minas. Estou em busca de novos desafios e conhecimentos em novas tecnologias. 
 
