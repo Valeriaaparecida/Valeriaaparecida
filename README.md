@@ -11,15 +11,21 @@ Eu sou Valéria, estudante de Sistemas de Informação na PUC Minas. Estou em bu
 
 ## Tecnologias que estou aprendendo
 
-<a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
-<a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-<a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
-<a href="https://stackshare.io/c-sharp" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a>
-<a href="https://stackshare.io/dot-net" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40" /></a>
-<a href="https://stackshare.io/sql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40" /></a>
-<a href="https://stackshare.io/nosql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="nosql" width="40" height="40" /></a>
-<a href="https://stackshare.io/azure" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /></a>
+<a href="https://stackshare.io/java" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+</a>
+<a href="https://stackshare.io/sql" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40" />
+</a>
+<a href="https://stackshare.io/spring" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
+</a>
+<a href="https://stackshare.io/spring-boot" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40" />
+</a>
+<a href="https://stackshare.io/angular" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
+</a>
 
 
 
