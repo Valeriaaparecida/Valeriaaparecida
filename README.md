@@ -9,26 +9,27 @@ Eu sou Valéria, estudante de Sistemas de Informação na PUC Minas. Estou em bu
 
 
 
-## Tecnologias que estou aprendendo
+## Linguagens e ferramentas:
 
 <a href="https://stackshare.io/java" target="_blank">
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </a>
-<a href="https://stackshare.io/sql" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40" />
-</a>
-<a href="https://stackshare.io/spring" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
-</a>
-<a href="https://stackshare.io/spring-boot" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40" />
-</a>
-<a href="https://stackshare.io/angular" target="_blank">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />
+
+<a href="https://stackshare.io/git" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
 </a>
 
+<a href="https://stackshare.io/github" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+</a>
 
+<a href="https://stackshare.io/html" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" />
+</a>
 
+<a href="https://stackshare.io/css" target="_blank">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
+</a>
 
 ## ⭐ GitHub Stats
 
