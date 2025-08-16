@@ -1,54 +1,50 @@
-<!-- Banner principal -->
+<!-- Header com Neon -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Bem-vindo%20ao%20meu%20Universo!&fontSize=40&fontColor=fff&animation=fadeIn" />
-</p>
-
-<!-- Mensagem de destaque -->
-<h3 align="center">🚀 Criando, aprendendo e explorando infinitas possibilidades no mundo tech 🌌</h3>
-
----
-
-## 🌟 Sobre mim
-✨ **Nome:** Gis  
-💻 **Stack principal:** C#, .NET, DevOps  
-🎯 **Objetivo:** Criar soluções criativas que impactem positivamente a vida das pessoas  
-🌱 **Atualmente estudando:** Kubernetes, Docker e ciclo de vida de software  
-💡 **Fun fact:** Café ☕ é meu combustível oficial!
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,kubernetes,git,github,linux,azure,postgresql,mysql" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🌌+Bem-vindo+ao+meu+GitHub+🌌;💻+Back-End+Developer+%7C+DevOps+Explorer;🚀+Criando+um+futuro+mais+inovador" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 Minhas Estatísticas
+<!-- Avatar + introdução -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuario&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="120" style="border-radius:50%;" alt="Avatar"/>
+</p>
+
+<h2 align="center">✨ Olá, eu sou a Gis ✨</h2>
+<p align="center">
+Sou apaixonada por transformar linhas de código em soluções criativas.  
+Sempre explorando novas tecnologias e criando projetos que unem inovação e impacto.  
 </p>
 
 ---
 
-## 🌌 Minha Galáxia de Projetos
-| 🚀 Projeto | 💡 Descrição | 🔗 Link |
-|------------|-------------|--------|
-| **DevOps Playground** | Laboratório de Kubernetes, Docker e CI/CD | [Ver no GitHub](#) |
-| **Fitness Tracker** | App para acompanhamento de dieta e treino | [Ver no GitHub](#) |
-| **API Magic Logs** | Middleware com logs inteligentes em C# | [Ver no GitHub](#) |
-
----
-
-## 🎨 Arte Digital
+## 🚀 Tecnologias que domino e estudo
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400" alt="Coder" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,kubernetes,git,github,linux,azure,postgresql,mysql,react" />
 </p>
 
 ---
 
-<!-- Footer com efeito -->
+## 🔥 Estatísticas Cósmicas
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuario&theme=radical&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>
+
+---
+
+## 🪐 Projetos em Destaque
+🌟 **DevOps Lab** → Kubernetes, Docker & CI/CD hands-on  
+🌟 **API Magic Logs** → Middleware com logging inteligente em C#  
+🌟 **Fitness Tracker** → Acompanhamento de dieta e treino  
+
+👉 [Explore todos os meus projetos aqui!](https://github.com/SeuUsuario?tab=repositories)
+
+---
+
+## 🎭 Um pouco além do código
+```ascii
+       ╔═══════════════════════════════╗
+       ║   "Code is like magic,        ║
+       ║    but real ✨"                ║
+       ╚═══════════════════════════════╝
