@@ -39,26 +39,17 @@
 ## 📊 Estatísticas Cósmicas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SeuUsuario&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Valeriaaparecida&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Valeriaaparecidao&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SeuUsuario&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Valeriaaparecida&theme=dracula&row=1&column=6" />
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**Java Playground**](#) | Projetos práticos em Java e Spring Boot | Java, Spring, Maven |
-| [**Python Lab**](#) | Experimentos e scripts para aprendizado | Python |
-| [**DevOps Lab**](#) | Práticas com Docker, Postman e Grafana | Docker, Postman, Grafana |
-| [**.NET Experiments**](#) | APIs e testes com C#/.NET | C#, .NET |
-
----
 
 ## 🎨 Toque Geek & Criativo
 
