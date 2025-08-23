@@ -1,6 +1,6 @@
 <!-- HEADER NEON ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=👩🏾‍💻+Valéria+no+Universo+do+Código&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:7928ca&height=200&section=header&text=👩🏾‍💻+Hello+World+!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- FRASE DE IMPACTO -->
