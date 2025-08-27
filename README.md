@@ -12,7 +12,7 @@
 
 ## 🌟 Sobre mim
 
-✨ Olá! Eu sou a **Valéria**, estudante da **PUC Minas** apaixonada por tecnologia.  
+✨ Olá! Eu sou a **Valéria**, estudante da **PUC Minas** .  
 💻 Atualmente me dedicando ao **mundo do Java e do Python**.  
 🎯 Meu objetivo é **evoluir continuamente como desenvolvedora**.  
 📚 Este repositório é o espaço para **mostrar minha jornada e minha evolução**.  
