@@ -5,15 +5,14 @@
 
 <!-- FRASE DE IMPACTO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Java+Developer+em+formação;Evoluindo+a+cada+commit+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Evoluindo+a+cada+commit+🚀" />
 </p>
 
 ---
 
 ## 🌟 Sobre mim
 
-✨ Olá! Eu sou a **Valéria**, estudante da **PUC Minas** .  
-💻 Atualmente me dedicando ao **mundo do Java e do Python**.  
+✨ Olá! Eu sou a **Valéria**, estudante da **PUC Minas** .    
 🎯 Meu objetivo é **evoluir continuamente como desenvolvedora**.  
 📚 Este repositório é o espaço para **mostrar minha jornada e minha evolução**.  
 
