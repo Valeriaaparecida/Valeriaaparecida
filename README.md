@@ -33,25 +33,7 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />  
 </p>
 
----
-
-## 📊 Estatísticas Cósmicas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valeriaaparecida&show_icons=true&theme=radical&hide_border=true" height="160" />
- 
-</p>
 
 
 
----
 
-
-
-## 🎨 Toque Geek & Criativo
-
-```ascii
-     ╔═════════════════════════════════╗
-     ║   "Cada commit é um passo       ║
-     ║    na minha jornada de evolução"║
-     ╚═════════════════════════════════╝
